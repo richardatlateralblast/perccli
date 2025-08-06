@@ -45,6 +45,8 @@ Example Output
 --------------
 
 ```
+sudo perccli show
+
 CLI Version = 007.3208.0000.0000 Feb 20, 2025
 Operating system = Linux 6.14.0-27-generic
 Status Code = 0
